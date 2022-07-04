@@ -1,0 +1,4 @@
+The resource group was deleted by accident, so I couldn't verify my work for step 1.
+
+for running the app: `docker-compose up --build`
+for testing terrafrom: `terraform init`, `terraform plan`, `terraform apply` 
